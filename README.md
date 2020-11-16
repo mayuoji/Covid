@@ -1,5 +1,5 @@
 # Covidmonitoring
-Focusing European countries, those codes summarize the covid infection and mobility data on daily basis.
+Focusing on European countries, those codes summarize the covid infection and mobility data on daily basis.
 
 ## For weekly update
 update_covid.ipynb
