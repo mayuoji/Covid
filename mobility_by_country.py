@@ -5,7 +5,6 @@ Created on Sun Oct 25 14:26:02 2020
 
 @author: mayuoji
 """
-
 ##import lib
 import csv
 import numpy as np
